@@ -1,7 +1,7 @@
 # TODOOOO-LIST
 go基础：
 
-1. 数组和切片的区别
+1. [数组和切片的区别](https://github.com/maronghe/go-internal/blob/master/personal%20summary/go/%E6%95%B0%E7%BB%84%E5%92%8C%E5%88%87%E7%89%87.md) 2020年06月16日22:01:39
 
 2. 协程同步的方式
 
